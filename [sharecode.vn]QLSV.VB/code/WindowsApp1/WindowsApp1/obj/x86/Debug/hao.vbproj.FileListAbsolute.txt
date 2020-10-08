@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\bin\Debug\WindowsApplication.exe.config
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\bin\Debug\WindowsApplication.exe
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\bin\Debug\WindowsApplication.pdb
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\obj\x86\Debug\hao.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\obj\x86\Debug\hao.Form1.resources
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\obj\x86\Debug\hao.Form2.resources
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\obj\x86\Debug\hao.vbproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\obj\x86\Debug\hao.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\obj\x86\Debug\WindowsApplication.exe
+C:\Users\ACER\Desktop\QLSV.VB\code\WindowsApp1\WindowsApp1\obj\x86\Debug\WindowsApplication.pdb
